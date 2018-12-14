@@ -1,0 +1,11 @@
+output: mainT2U.o P5lib.o
+	g++ -O3 -std=c++11 mainT2U.o P5lib.o -o outputT2U
+
+mainT2U.o: mainT2U.cpp
+	g++ -O3 -std=c++11 -c mainT2U.cpp
+
+P5lib.o: P5lib.cpp P5lib.h
+	g++ -O3 -std=c++11 -c P5lib.cpp
+
+cleanT2U:
+	rm *.o outputT2U

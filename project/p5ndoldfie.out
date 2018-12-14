@@ -1,0 +1,27 @@
+\BOOKMARK [1][-]{section*.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section*.2}{Theory}{}% 2
+\BOOKMARK [2][-]{section*.3}{Monte Carlo Integration}{section*.2}% 3
+\BOOKMARK [2][-]{section*.4}{Importance Sampling}{section*.2}% 4
+\BOOKMARK [2][-]{section*.5}{Metropolis Algorithm}{section*.2}% 5
+\BOOKMARK [2][-]{section*.6}{The Variational Principle}{section*.2}% 6
+\BOOKMARK [3][-]{section*.7}{The Variational Method}{section*.6}% 7
+\BOOKMARK [2][-]{section*.8}{Quantum Many-body Systems }{section*.2}% 8
+\BOOKMARK [2][-]{section*.9}{The Virial Theorem}{section*.2}% 9
+\BOOKMARK [1][-]{section*.10}{Numerical Method}{}% 10
+\BOOKMARK [2][-]{section*.11}{Physical System Description and properties}{section*.10}% 11
+\BOOKMARK [2][-]{section*.12}{Variational Monte Carlo}{section*.10}% 12
+\BOOKMARK [2][-]{section*.13}{Part I: Trial Wave function}{section*.10}% 13
+\BOOKMARK [2][-]{section*.14}{Part II: Improved Trial Wave function}{section*.10}% 14
+\BOOKMARK [2][-]{section*.15}{Part III: Virial Theorem}{section*.10}% 15
+\BOOKMARK [1][-]{section*.16}{Results}{}% 16
+\BOOKMARK [2][-]{section*.17}{Part I: }{section*.16}% 17
+\BOOKMARK [2][-]{section*.18}{Part II: }{section*.16}% 18
+\BOOKMARK [2][-]{section*.19}{Part III: }{section*.16}% 19
+\BOOKMARK [1][-]{section*.20}{Discussion}{}% 20
+\BOOKMARK [2][-]{section*.21}{Part I:}{section*.20}% 21
+\BOOKMARK [2][-]{section*.22}{Part II:}{section*.20}% 22
+\BOOKMARK [2][-]{section*.23}{Part III: }{section*.20}% 23
+\BOOKMARK [1][-]{section*.24}{Concluding Remarks}{}% 24
+\BOOKMARK [1][-]{section*.25}{Author's Remarks}{}% 25
+\BOOKMARK [1][-]{section*.26}{Github-Repository}{}% 26
+\BOOKMARK [1][-]{section*.27}{References}{}% 27

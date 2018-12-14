@@ -1,0 +1,11 @@
+output: mainT1P.o P5lib.o
+	g++ -O3 -std=c++11 mainT1P.o P5lib.o -o outputT1P
+
+mainT1P.o: mainT1P.cpp
+	g++ -O3 -std=c++11 -c mainT1P.cpp
+
+P5lib.o: P5lib.cpp P5lib.h
+	g++ -O3 -std=c++11 -c P5lib.cpp
+
+cleanT1P:
+	rm *.o outputT1P
